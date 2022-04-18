@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1ba604f-cfb2-461b-a09b-dc5ec5f1aa8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="27sY4Biwzu1jRhvAI565H8D9Efa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.Inv_modulo_cal">
+    <configuration name="Inv_modulo_cal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eliptic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inv_modulo_cal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nghia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eliptic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/AI/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nghia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Inv_modulo_cal" />
+        <item itemvalue="Python.Nghia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1ba604f-cfb2-461b-a09b-dc5ec5f1aa8f" name="Default Changelist" comment="" />
+      <created>1650110066689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650110066689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650124198749">
+      <screen x="0" y="22" width="1280" height="710" />
+    </state>
+    <state x="104" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1280.710@0.22.1280.710" timestamp="1650124198749" />
+    <state width="1259" height="173" key="GridCell.Tab.0.bottom" timestamp="1650301989605">
+      <screen x="0" y="22" width="1280" height="715" />
+    </state>
+    <state width="1259" height="173" key="GridCell.Tab.0.bottom/0.22.1280.705@0.22.1280.705" timestamp="1650139391425" />
+    <state width="1259" height="173" key="GridCell.Tab.0.bottom/0.22.1280.708@0.22.1280.708" timestamp="1650214647225" />
+    <state width="1259" height="173" key="GridCell.Tab.0.bottom/0.22.1280.710@0.22.1280.710" timestamp="1650126024827" />
+    <state width="1259" height="173" key="GridCell.Tab.0.bottom/0.22.1280.715@0.22.1280.715" timestamp="1650301989605" />
+    <state width="1259" height="173" key="GridCell.Tab.0.center" timestamp="1650301989603">
+      <screen x="0" y="22" width="1280" height="715" />
+    </state>
+    <state width="1259" height="173" key="GridCell.Tab.0.center/0.22.1280.705@0.22.1280.705" timestamp="1650139391424" />
+    <state width="1259" height="173" key="GridCell.Tab.0.center/0.22.1280.708@0.22.1280.708" timestamp="1650214647223" />
+    <state width="1259" height="173" key="GridCell.Tab.0.center/0.22.1280.710@0.22.1280.710" timestamp="1650126024825" />
+    <state width="1259" height="173" key="GridCell.Tab.0.center/0.22.1280.715@0.22.1280.715" timestamp="1650301989603" />
+    <state width="1259" height="173" key="GridCell.Tab.0.left" timestamp="1650301989603">
+      <screen x="0" y="22" width="1280" height="715" />
+    </state>
+    <state width="1259" height="173" key="GridCell.Tab.0.left/0.22.1280.705@0.22.1280.705" timestamp="1650139391424" />
+    <state width="1259" height="173" key="GridCell.Tab.0.left/0.22.1280.708@0.22.1280.708" timestamp="1650214647220" />
+    <state width="1259" height="173" key="GridCell.Tab.0.left/0.22.1280.710@0.22.1280.710" timestamp="1650126024824" />
+    <state width="1259" height="173" key="GridCell.Tab.0.left/0.22.1280.715@0.22.1280.715" timestamp="1650301989603" />
+    <state width="1259" height="173" key="GridCell.Tab.0.right" timestamp="1650301989604">
+      <screen x="0" y="22" width="1280" height="715" />
+    </state>
+    <state width="1259" height="173" key="GridCell.Tab.0.right/0.22.1280.705@0.22.1280.705" timestamp="1650139391425" />
+    <state width="1259" height="173" key="GridCell.Tab.0.right/0.22.1280.708@0.22.1280.708" timestamp="1650214647224" />
+    <state width="1259" height="173" key="GridCell.Tab.0.right/0.22.1280.710@0.22.1280.710" timestamp="1650126024826" />
+    <state width="1259" height="173" key="GridCell.Tab.0.right/0.22.1280.715@0.22.1280.715" timestamp="1650301989604" />
+    <state x="319" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1650301750049">
+      <screen x="0" y="22" width="1280" height="715" />
+    </state>
+    <state x="319" y="207" key="com.intellij.ide.util.TipDialog/0.22.1280.710@0.22.1280.710" timestamp="1650110070747" />
+    <state x="319" y="208" key="com.intellij.ide.util.TipDialog/0.22.1280.715@0.22.1280.715" timestamp="1650301750049" />
+  </component>
+</project>
